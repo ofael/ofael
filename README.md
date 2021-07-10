@@ -1,16 +1,14 @@
 ### Hi there 👋
+My name is Rafael de Assis Fontes, I'm living in Brazil :brazil: , I'm majoring in digital game development 🕹
 
-<!--
-**ofael/ofael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Looking for an opportunity in mobile programming, I'm currently studying mobile development in kotlin.
 
-Here are some ideas to get you started:
+🚀 Nós nunca sabemos nada, pois o aprendizado é infindável. 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- From RJ living in Volta Redonda 🌏
+- Mobile developer 👨🏻‍💻
+
+Reach me out 👇🏽
+
+[![Linkedin_Badge](https://.img.shields.io/badge/-Diego%20Fernandes-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafassis/)](https://www.linkedin.com/in/rafassis/)
+
