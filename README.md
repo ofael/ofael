@@ -1,7 +1,7 @@
 ### Hi there 👋
 My name is Rafael de Assis Fontes, I'm living in Brazil :brazil: , I'm majoring in digital game development 🕹
 
-Looking for an opportunity in mobile programming, I'm currently studying mobile development in kotlin.
+Looking for an opportunity in game developer, I'm currently studying game developer in Unity with C#.
 
 🚀 Nós nunca sabemos nada, pois o aprendizado é infindável. 🚀
 
