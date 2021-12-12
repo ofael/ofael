@@ -6,7 +6,7 @@ Looking for an opportunity in game developer, I'm currently studying game develo
 🚀 Nós nunca sabemos nada, pois o aprendizado é infindável. 🚀
 
 - From RJ living in Volta Redonda 🌏
-- Mobile developer 👨🏻‍💻
+- Game developer 👨🏻‍💻
 
 Reach me out 👇🏽
 
