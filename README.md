@@ -5,7 +5,8 @@
 - 💻 Apaixonado por tecnologia e sempre em busca de conhecimento..
 
   🚀 Nós nunca sabemos nada, pois o aprendizado é infindável. 🚀
-  do Rio de Janeiro, morando em Volta Redonda 🌏
+  
+  Rio de Janeiro, morando em Volta Redonda 🌏
 <div> 
 <a href="https://www.github.com/ofael">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ofael&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
