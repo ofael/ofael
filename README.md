@@ -1,6 +1,6 @@
 ### Olá,Eu sou o Rafael de Assis Fontes
 
-- 📚 Hoje estou estudando : Front-end ( TypeScript&Reactjs&jQuery)
+- 📚 Hoje estou estudando : Desenvolvimento de Jogos Unity 3D
 - 🕹 Formado em Desenvolvimento de Jogos Digitais
 - 💻 Apaixonado por tecnologia e sempre em busca de conhecimento..
 
